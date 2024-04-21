@@ -27,7 +27,7 @@ There is a login page where users can log in to the system
 ⚛ react-icons
 ⚛ millify
 
-# Coin_MVC_Formik Project
+## Coin_MVC_Formik Project
 
 <img src="./public/Coin_MVC_Formik.gif"/>
 
