@@ -1,6 +1,6 @@
 # Coin_MVC_Formik
 
-# home page
+## home page
 💰 Coinmania
 
 💸 This project, Coinmania, is a React-based application that enables real-time tracking of cryptocurrencies and is developed based on Model-View-Controller (MVC) architecture. 
@@ -10,7 +10,7 @@
 💵 There is a detail page with detailed information and price chart of each cryptocurrency. 
 There is a login page where users can log in to the system
  
-# 🛠 Technologies Used: 
+## 🛠 technologies used: 
 ⚛ bootstrap
 ⚛ formik
 ⚛ yup
